@@ -9,9 +9,7 @@ IDE used: Eclipse
 
 ## Getting Started
 
-To run the above application, clone the repository by either downloading the zip file or using the following command:  
-
-    git clone https://github.com/PrajwalaTM/Real-time-Chat-App.git
+To run the above application, clone the [repository](https://github.com/PrajwalaTM/Real-time-Chat-App.git) or download the zip file. 
 
 Download Eclipse from the [official page](https://eclipse.org/downloads/packages/), and ensure that the Eclipse version you downloaded supports Maven. 
 
