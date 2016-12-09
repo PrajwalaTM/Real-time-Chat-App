@@ -19,4 +19,4 @@ Run the application as a Maven Test Project and then, run the [java file](https:
 
 Go to localhost:4567 in a couple of different browser windows and text yourself :P.
 
-A sample output can be seen [here](https://github.com/PrajwalaTM/Real-time-Chat-App/blob/master/chat.png)
+A sample output can be seen [here](https://github.com/PrajwalaTM/Real-time-Chat-App/blob/master/chat.png).
